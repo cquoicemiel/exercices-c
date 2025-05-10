@@ -1,1 +1,1 @@
-# exercices-c
+## Répertoire pour stocker les exercices C du semestre 2.
